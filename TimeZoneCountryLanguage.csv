@@ -1,0 +1,723 @@
+"","country_name","country_code","namePrimary","codePrimary","nameSecondary","codeSecondary","zone_name","abbreivation","gmt_offset","dst","gmt_offset_hours"
+"1","Åland Islands","ax",NA,NA,NA,NA,"Mariehamn","EEST",10800,1,3
+"2","Åland Islands","ax",NA,NA,NA,NA,"Mariehamn","EET",7200,0,2
+"3","Afghanistan","af","Pushto; Pashto","ps","Uzbek","uz","Kabul","+0430",16200,0,4.5
+"4","Albania","al","Albanian","sq",NA,NA,"Tirane","CEST",7200,1,2
+"5","Albania","al","Albanian","sq",NA,NA,"Tirane","CET",3600,0,1
+"6","Algeria","dz","Arabic","ar",NA,NA,"Algiers","CEST",7200,1,2
+"7","Algeria","dz","Arabic","ar",NA,NA,"Algiers","CET",3600,0,1
+"8","American Samoa","as","English","en","Samoan","sm","Pago_Pago","SST",-39600,0,-11
+"9","Andorra","ad","Catalan; Valencian","ca",NA,NA,"Andorra","CEST",7200,1,2
+"10","Andorra","ad","Catalan; Valencian","ca",NA,NA,"Andorra","CET",3600,0,1
+"11","Angola","ao","Portuguese","pt",NA,NA,"Luanda","WAT",3600,0,1
+"12","Anguilla","ai","English","en",NA,NA,"Anguilla","AST",-14400,0,-4
+"13","Antarctica","aq",NA,"Antarctica",NA,NA,"Mawson","+05",18000,0,5
+"14","Antarctica","aq",NA,"Antarctica",NA,NA,"Davis","+05",18000,0,5
+"15","Antarctica","aq",NA,"Antarctica",NA,NA,"Casey","+11",39600,0,11
+"16","Antarctica","aq",NA,"Antarctica",NA,NA,"Troll","+02",7200,1,2
+"17","Antarctica","aq",NA,"Antarctica",NA,NA,"Troll","+00",0,0,0
+"18","Antarctica","aq",NA,"Antarctica",NA,NA,"Rothera","-03",-10800,0,-3
+"19","Antarctica","aq",NA,"Antarctica",NA,NA,"McMurdo","NZST",43200,0,12
+"20","Antarctica","aq",NA,"Antarctica",NA,NA,"McMurdo","NZDT",46800,1,13
+"21","Antarctica","aq",NA,"Antarctica",NA,NA,"Palmer","-02",-7200,1,-2
+"22","Antarctica","aq",NA,"Antarctica",NA,NA,"Palmer","-03",-10800,0,-3
+"23","Antarctica","aq",NA,"Antarctica",NA,NA,"Vostok","+06",21600,0,6
+"24","Antarctica","aq",NA,"Antarctica",NA,NA,"Syowa","+03",10800,0,3
+"25","Antarctica","aq",NA,"Antarctica",NA,NA,"DumontDUrville","+10",36000,0,10
+"26","Antigua and Barbuda","ag","English","en",NA,NA,"Antigua","AST",-14400,0,-4
+"27","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Buenos_Aires","-02",-7200,1,-2
+"28","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Cordoba","-02",-7200,1,-2
+"29","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Salta","-02",-7200,1,-2
+"30","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Jujuy","-02",-7200,1,-2
+"31","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Tucuman","-02",-7200,1,-2
+"32","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Catamarca","-02",-7200,1,-2
+"33","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/La_Rioja","-02",-7200,1,-2
+"34","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/San_Juan","-02",-7200,1,-2
+"35","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Mendoza","-02",-7200,1,-2
+"36","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/San_Luis","-02",-7200,1,-2
+"37","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Rio_Gallegos","-02",-7200,1,-2
+"38","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Ushuaia","-02",-7200,1,-2
+"39","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Buenos_Aires","-03",-10800,0,-3
+"40","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Cordoba","-03",-10800,0,-3
+"41","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Salta","-03",-10800,0,-3
+"42","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Jujuy","-03",-10800,0,-3
+"43","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Tucuman","-03",-10800,0,-3
+"44","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Catamarca","-03",-10800,0,-3
+"45","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/La_Rioja","-03",-10800,0,-3
+"46","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/San_Juan","-03",-10800,0,-3
+"47","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Mendoza","-03",-10800,0,-3
+"48","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/San_Luis","-03",-10800,0,-3
+"49","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Rio_Gallegos","-03",-10800,0,-3
+"50","Argentina","ar","Spanish; Castilian","es","Guarani","gn","Argentina/Ushuaia","-03",-10800,0,-3
+"51","Armenia","am","Armenian","hy","Russian","ru","Yerevan","+04",14400,1,4
+"52","Armenia","am","Armenian","hy","Russian","ru","Yerevan","+04",14400,0,4
+"53","Aruba","aw","Dutch; Flemish","nl","Panjabi; Punjabi","pa","Aruba","AST",-14400,0,-4
+"54","Australia","au","English","en",NA,NA,"Macquarie","+11",39600,0,11
+"55","Australia","au","English","en",NA,NA,"Lord_Howe","+11",39600,1,11
+"56","Australia","au","English","en",NA,NA,"Lord_Howe","+1030",37800,0,10.5
+"57","Australia","au","English","en",NA,NA,"Perth","AWDT",32400,1,9
+"58","Australia","au","English","en",NA,NA,"Eucla","+0945",35100,1,9.75
+"59","Australia","au","English","en",NA,NA,"Broken_Hill","ACDT",37800,1,10.5
+"60","Australia","au","English","en",NA,NA,"Adelaide","ACDT",37800,1,10.5
+"61","Australia","au","English","en",NA,NA,"Darwin","ACDT",37800,1,10.5
+"62","Australia","au","English","en",NA,NA,"Melbourne","AEDT",39600,1,11
+"63","Australia","au","English","en",NA,NA,"Sydney","AEDT",39600,1,11
+"64","Australia","au","English","en",NA,NA,"Brisbane","AEDT",39600,1,11
+"65","Australia","au","English","en",NA,NA,"Lindeman","AEDT",39600,1,11
+"66","Australia","au","English","en",NA,NA,"Macquarie","AEDT",39600,1,11
+"67","Australia","au","English","en",NA,NA,"Hobart","AEDT",39600,1,11
+"68","Australia","au","English","en",NA,NA,"Currie","AEDT",39600,1,11
+"69","Australia","au","English","en",NA,NA,"Broken_Hill","ACST",34200,0,9.5
+"70","Australia","au","English","en",NA,NA,"Adelaide","ACST",34200,0,9.5
+"71","Australia","au","English","en",NA,NA,"Darwin","ACST",34200,0,9.5
+"72","Australia","au","English","en",NA,NA,"Perth","AWST",28800,0,8
+"73","Australia","au","English","en",NA,NA,"Eucla","+0845",31500,0,8.75
+"74","Australia","au","English","en",NA,NA,"Currie","AEST",36000,0,10
+"75","Australia","au","English","en",NA,NA,"Hobart","AEST",36000,0,10
+"76","Australia","au","English","en",NA,NA,"Melbourne","AEST",36000,0,10
+"77","Australia","au","English","en",NA,NA,"Sydney","AEST",36000,0,10
+"78","Australia","au","English","en",NA,NA,"Lindeman","AEST",36000,0,10
+"79","Australia","au","English","en",NA,NA,"Brisbane","AEST",36000,0,10
+"80","Austria","at","German","de",NA,NA,"Vienna","CEST",7200,1,2
+"81","Austria","at","German","de",NA,NA,"Vienna","CET",3600,0,1
+"82","Azerbaijan","az","Azerbaijani","az",NA,NA,"Baku","+04",14400,1,4
+"83","Azerbaijan","az","Azerbaijani","az",NA,NA,"Baku","+04",14400,0,4
+"84","Bahamas","bs","English","en",NA,NA,"Nassau","EDT",-14400,1,-4
+"85","Bahamas","bs","English","en",NA,NA,"Nassau","EST",-18000,0,-5
+"86","Bahrain","bh","Arabic","ar",NA,NA,"Bahrain","+03",10800,0,3
+"87","Bangladesh","bd","Bengali","bn",NA,NA,"Dhaka","+07",25200,1,7
+"88","Bangladesh","bd","Bengali","bn",NA,NA,"Dhaka","+06",21600,0,6
+"89","Barbados","bb","English","en",NA,NA,"Barbados","ADT",-10800,1,-3
+"90","Barbados","bb","English","en",NA,NA,"Barbados","AST",-14400,0,-4
+"91","Belarus","by","Belarusian","be","Russian","ru","Minsk","EEST",10800,1,3
+"92","Belarus","by","Belarusian","be","Russian","ru","Minsk","CET",3600,0,1
+"93","Belgium","be","Dutch; Flemish","nl","French","fr","Brussels","WEST",3600,1,1
+"94","Belgium","be","Dutch; Flemish","nl","French","fr","Brussels","CET",3600,0,1
+"95","Belize","bz","English","en","Spanish; Castilian","es","Belize","CDT",-18000,1,-5
+"96","Belize","bz","English","en","Spanish; Castilian","es","Belize","CST",-21600,0,-6
+"97","Benin","bj","French","fr",NA,NA,"Porto-Novo","WAT",3600,0,1
+"98","Bermuda","bm","English","en",NA,NA,"Bermuda","ADT",-10800,1,-3
+"99","Bermuda","bm","English","en",NA,NA,"Bermuda","AST",-14400,0,-4
+"100","Bhutan","bt","Dzongkha","dz",NA,NA,"Thimphu","+06",21600,0,6
+"101","Bolivia, Plurinational State of","bo",NA,NA,NA,NA,"La_Paz","-04",-14400,0,-4
+"102","Bolivia, Plurinational State of","bo",NA,NA,NA,NA,"La_Paz","BST",-12756,1,-3.54
+"103","Bonaire, Sint Eustatius and Saba","bq",NA,NA,NA,NA,"Kralendijk","AST",-14400,0,-4
+"104","Bosnia and Herzegovina","ba","Bosnian","bs","Croatian","hr","Sarajevo","CEST",7200,1,2
+"105","Bosnia and Herzegovina","ba","Bosnian","bs","Croatian","hr","Sarajevo","CET",3600,0,1
+"106","Botswana","bw","English","en","Tswana","tn","Gaborone","CAT",7200,0,2
+"107","Brazil","br","Portuguese","pt",NA,NA,"Eirunepe","-04",-14400,0,-4
+"108","Brazil","br","Portuguese","pt",NA,NA,"Rio_Branco","-04",-14400,0,-4
+"109","Brazil","br","Portuguese","pt",NA,NA,"Santarem","-03",-10800,0,-3
+"110","Brazil","br","Portuguese","pt",NA,NA,"Eirunepe","-04",-14400,1,-4
+"111","Brazil","br","Portuguese","pt",NA,NA,"Rio_Branco","-04",-14400,1,-4
+"112","Brazil","br","Portuguese","pt",NA,NA,"Campo_Grande","-03",-10800,1,-3
+"113","Brazil","br","Portuguese","pt",NA,NA,"Cuiaba","-03",-10800,1,-3
+"114","Brazil","br","Portuguese","pt",NA,NA,"Santarem","-03",-10800,1,-3
+"115","Brazil","br","Portuguese","pt",NA,NA,"Porto_Velho","-03",-10800,1,-3
+"116","Brazil","br","Portuguese","pt",NA,NA,"Boa_Vista","-03",-10800,1,-3
+"117","Brazil","br","Portuguese","pt",NA,NA,"Manaus","-03",-10800,1,-3
+"118","Brazil","br","Portuguese","pt",NA,NA,"Belem","-02",-7200,1,-2
+"119","Brazil","br","Portuguese","pt",NA,NA,"Fortaleza","-02",-7200,1,-2
+"120","Brazil","br","Portuguese","pt",NA,NA,"Recife","-02",-7200,1,-2
+"121","Brazil","br","Portuguese","pt",NA,NA,"Araguaina","-02",-7200,1,-2
+"122","Brazil","br","Portuguese","pt",NA,NA,"Maceio","-02",-7200,1,-2
+"123","Brazil","br","Portuguese","pt",NA,NA,"Bahia","-02",-7200,1,-2
+"124","Brazil","br","Portuguese","pt",NA,NA,"Sao_Paulo","-02",-7200,1,-2
+"125","Brazil","br","Portuguese","pt",NA,NA,"Noronha","-01",-3600,1,-1
+"126","Brazil","br","Portuguese","pt",NA,NA,"Porto_Velho","-04",-14400,0,-4
+"127","Brazil","br","Portuguese","pt",NA,NA,"Boa_Vista","-04",-14400,0,-4
+"128","Brazil","br","Portuguese","pt",NA,NA,"Manaus","LMT",-14404,0,-4
+"129","Brazil","br","Portuguese","pt",NA,NA,"Cuiaba","-04",-14400,0,-4
+"130","Brazil","br","Portuguese","pt",NA,NA,"Campo_Grande","-04",-14400,0,-4
+"131","Brazil","br","Portuguese","pt",NA,NA,"Belem","-03",-10800,0,-3
+"132","Brazil","br","Portuguese","pt",NA,NA,"Araguaina","-03",-10800,0,-3
+"133","Brazil","br","Portuguese","pt",NA,NA,"Sao_Paulo","-03",-10800,0,-3
+"134","Brazil","br","Portuguese","pt",NA,NA,"Bahia","-03",-10800,0,-3
+"135","Brazil","br","Portuguese","pt",NA,NA,"Fortaleza","-03",-10800,0,-3
+"136","Brazil","br","Portuguese","pt",NA,NA,"Maceio","-03",-10800,0,-3
+"137","Brazil","br","Portuguese","pt",NA,NA,"Recife","-03",-10800,0,-3
+"138","Brazil","br","Portuguese","pt",NA,NA,"Noronha","-02",-7200,0,-2
+"139","British Indian Ocean Territory","io","English","en",NA,NA,"Chagos","+06",21600,0,6
+"140","Brunei Darussalam","bn",NA,NA,NA,NA,"Brunei","+08",28800,0,8
+"141","Bulgaria","bg","Bulgarian","bg",NA,NA,"Sofia","EEST",10800,1,3
+"142","Bulgaria","bg","Bulgarian","bg",NA,NA,"Sofia","CET",3600,0,1
+"143","Burkina Faso","bf","French","fr","Fulah","ff","Ouagadougou","GMT",0,0,0
+"144","Burundi","bi","French","fr","Rundi","rn","Bujumbura","CAT",7200,0,2
+"145","Côte d'Ivoire","ci",NA,NA,NA,NA,"Abidjan","GMT",0,0,0
+"146","Cambodia","kh","Central Khmer","km",NA,NA,"Phnom_Penh","+07",25200,0,7
+"147","Cameroon","cm","English","en","French","fr","Douala","WAT",3600,0,1
+"148","Canada","ca","English","en","French","fr","Fort_Nelson","MST",-25200,0,-7
+"149","Canada","ca","English","en","French","fr","Resolute","EST",-18000,0,-5
+"150","Canada","ca","English","en","French","fr","Rankin_Inlet","EST",-18000,0,-5
+"151","Canada","ca","English","en","French","fr","Cambridge_Bay","EST",-18000,0,-5
+"152","Canada","ca","English","en","French","fr","Iqaluit","CDT",-18000,1,-5
+"153","Canada","ca","English","en","French","fr","Pangnirtung","CDT",-18000,1,-5
+"154","Canada","ca","English","en","French","fr","Iqaluit","CST",-21600,0,-6
+"155","Canada","ca","English","en","French","fr","Pangnirtung","CST",-21600,0,-6
+"156","Canada","ca","English","en","French","fr","Goose_Bay","ADDT",-7200,1,-2
+"157","Canada","ca","English","en","French","fr","St_Johns","NDDT",-5400,1,-1.5
+"158","Canada","ca","English","en","French","fr","Resolute","CDT",-18000,1,-5
+"159","Canada","ca","English","en","French","fr","Rankin_Inlet","CDT",-18000,1,-5
+"160","Canada","ca","English","en","French","fr","Inuvik","MST",-25200,0,-7
+"161","Canada","ca","English","en","French","fr","Dawson","PST",-28800,0,-8
+"162","Canada","ca","English","en","French","fr","Dawson_Creek","MST",-25200,0,-7
+"163","Canada","ca","English","en","French","fr","Swift_Current","CST",-21600,0,-6
+"164","Canada","ca","English","en","French","fr","Whitehorse","PST",-28800,0,-8
+"165","Canada","ca","English","en","French","fr","Goose_Bay","AST",-14400,0,-4
+"166","Canada","ca","English","en","French","fr","Whitehorse","YDDT",-25200,1,-7
+"167","Canada","ca","English","en","French","fr","Dawson","YDDT",-25200,1,-7
+"168","Canada","ca","English","en","French","fr","Inuvik","PDDT",-21600,1,-6
+"169","Canada","ca","English","en","French","fr","Cambridge_Bay","MDDT",-18000,1,-5
+"170","Canada","ca","English","en","French","fr","Yellowknife","MDDT",-18000,1,-5
+"171","Canada","ca","English","en","French","fr","Regina","CST",-21600,0,-6
+"172","Canada","ca","English","en","French","fr","Atikokan","EST",-18000,0,-5
+"173","Canada","ca","English","en","French","fr","Thunder_Bay","EWT",-14400,1,-4
+"174","Canada","ca","English","en","French","fr","St_Johns","NST",-12600,0,-3.5
+"175","Canada","ca","English","en","French","fr","Yellowknife","MST",-25200,0,-7
+"176","Canada","ca","English","en","French","fr","Dawson_Creek","PDT",-25200,1,-7
+"177","Canada","ca","English","en","French","fr","Fort_Nelson","PDT",-25200,1,-7
+"178","Canada","ca","English","en","French","fr","Vancouver","PDT",-25200,1,-7
+"179","Canada","ca","English","en","French","fr","Regina","MDT",-21600,1,-6
+"180","Canada","ca","English","en","French","fr","Swift_Current","MDT",-21600,1,-6
+"181","Canada","ca","English","en","French","fr","Edmonton","MDT",-21600,1,-6
+"182","Canada","ca","English","en","French","fr","Atikokan","CDT",-18000,1,-5
+"183","Canada","ca","English","en","French","fr","Rainy_River","CDT",-18000,1,-5
+"184","Canada","ca","English","en","French","fr","Toronto","EDT",-14400,1,-4
+"185","Canada","ca","English","en","French","fr","Nipigon","EDT",-14400,1,-4
+"186","Canada","ca","English","en","French","fr","Glace_Bay","ADT",-10800,1,-3
+"187","Canada","ca","English","en","French","fr","Moncton","ADT",-10800,1,-3
+"188","Canada","ca","English","en","French","fr","Blanc-Sablon","ADT",-10800,1,-3
+"189","Canada","ca","English","en","French","fr","Creston","PST",-28800,0,-8
+"190","Canada","ca","English","en","French","fr","Winnipeg","CDT",-18000,1,-5
+"191","Canada","ca","English","en","French","fr","Halifax","ADT",-10800,1,-3
+"192","Canada","ca","English","en","French","fr","Thunder_Bay","EST",-18000,0,-5
+"193","Canada","ca","English","en","French","fr","Edmonton","MST",-25200,0,-7
+"194","Canada","ca","English","en","French","fr","Moncton","AST",-14400,0,-4
+"195","Canada","ca","English","en","French","fr","Halifax","AST",-14400,0,-4
+"196","Canada","ca","English","en","French","fr","Glace_Bay","LMT",-14388,0,-4
+"197","Canada","ca","English","en","French","fr","Rainy_River","CST",-21600,0,-6
+"198","Canada","ca","English","en","French","fr","Nipigon","EST",-18000,0,-5
+"199","Canada","ca","English","en","French","fr","Toronto","EST",-18000,0,-5
+"200","Canada","ca","English","en","French","fr","Winnipeg","CST",-21600,0,-6
+"201","Canada","ca","English","en","French","fr","Vancouver","PST",-28800,0,-8
+"202","Canada","ca","English","en","French","fr","Blanc-Sablon","AST",-14400,0,-4
+"203","Cape Verde","cv","Portuguese","pt",NA,NA,"Cape_Verde","-01",-3600,0,-1
+"204","Cape Verde","cv","Portuguese","pt",NA,NA,"Cape_Verde","-01",-3600,1,-1
+"205","Cayman Islands","ky","English","en",NA,NA,"Cayman","EST",-18000,0,-5
+"206","Central African Republic","cf","French","fr","Sango","sg","Bangui","WAT",3600,0,1
+"207","Chad","td","French","fr","Arabic","ar","Ndjamena","WAST",7200,1,2
+"208","Chad","td","French","fr","Arabic","ar","Ndjamena","LMT",3612,0,1
+"209","Chile","cl","Spanish; Castilian","es",NA,NA,"Easter","-06",-21600,0,-6
+"210","Chile","cl","Spanish; Castilian","es",NA,NA,"Easter","-05",-18000,1,-5
+"211","Chile","cl","Spanish; Castilian","es",NA,NA,"Punta_Arenas","-03",-10800,1,-3
+"212","Chile","cl","Spanish; Castilian","es",NA,NA,"Santiago","-03",-10800,1,-3
+"213","Chile","cl","Spanish; Castilian","es",NA,NA,"Santiago","-04",-14400,0,-4
+"214","Chile","cl","Spanish; Castilian","es",NA,NA,"Punta_Arenas","-04",-14400,0,-4
+"215","China","cn","Chinese","zh",NA,NA,"Shanghai","CDT",32400,1,9
+"216","China","cn","Chinese","zh",NA,NA,"Urumqi","+06",21600,0,6
+"217","China","cn","Chinese","zh",NA,NA,"Shanghai","CST",28800,0,8
+"218","Christmas Island","cx","English","en",NA,NA,"Christmas","+07",25200,0,7
+"219","Cocos (Keeling) Islands","cc",NA,NA,NA,NA,"Cocos","+0630",23400,0,6.5
+"220","Colombia","co","Spanish; Castilian","es",NA,NA,"Bogota","-04",-14400,1,-4
+"221","Colombia","co","Spanish; Castilian","es",NA,NA,"Bogota","-05",-18000,0,-5
+"222","Comoros","km","Arabic","ar","French","fr","Comoro","+0245",9900,0,2.75
+"223","Congo","cg",NA,NA,NA,NA,"Brazzaville","WAT",3600,0,1
+"224","Congo, the Democratic Republic of the","cd",NA,NA,NA,NA,"Kinshasa","WAT",3600,0,1
+"225","Congo, the Democratic Republic of the","cd",NA,NA,NA,NA,"Lubumbashi","CAT",7200,0,2
+"226","Cook Islands","ck","English","en",NA,NA,"Rarotonga","-10",-36000,0,-10
+"227","Cook Islands","ck","English","en",NA,NA,"Rarotonga","-0930",-34200,1,-9.5
+"228","Costa Rica","cr","Spanish; Castilian","es",NA,NA,"Costa_Rica","CDT",-18000,1,-5
+"229","Costa Rica","cr","Spanish; Castilian","es",NA,NA,"Costa_Rica","CST",-21600,0,-6
+"230","Croatia","hr","Croatian","hr",NA,NA,"Zagreb","CEST",7200,1,2
+"231","Croatia","hr","Croatian","hr",NA,NA,"Zagreb","CET",3600,0,1
+"232","Cuba","cu","Spanish; Castilian","es",NA,NA,"Havana","CDT",-14400,1,-4
+"233","Cuba","cu","Spanish; Castilian","es",NA,NA,"Havana","CST",-18000,0,-5
+"234","Curaçao","cw",NA,NA,NA,NA,"Curacao","AST",-14400,0,-4
+"235","Cyprus","cy","Greek, Modern (1453-)","el","Turkish","tr","Famagusta","+03",10800,0,3
+"236","Cyprus","cy","Greek, Modern (1453-)","el","Turkish","tr","Nicosia","EEST",10800,1,3
+"237","Cyprus","cy","Greek, Modern (1453-)","el","Turkish","tr","Famagusta","EEST",10800,1,3
+"238","Cyprus","cy","Greek, Modern (1453-)","el","Turkish","tr","Nicosia","EET",7200,0,2
+"239","Czech Republic","cz","Czech","cs","Slovak","sk","Prague","GMT",0,1,0
+"240","Czech Republic","cz","Czech","cs","Slovak","sk","Prague","CET",3600,0,1
+"241","Denmark","dk","Danish","da",NA,NA,"Copenhagen","CEST",7200,1,2
+"242","Denmark","dk","Danish","da",NA,NA,"Copenhagen","CET",3600,0,1
+"243","Djibouti","dj","French","fr","Arabic","ar","Djibouti","+0245",9900,0,2.75
+"244","Dominica","dm","English","en",NA,NA,"Dominica","AST",-14400,0,-4
+"245","Dominican Republic","do","Spanish; Castilian","es",NA,NA,"Santo_Domingo","AST",-14400,0,-4
+"246","Dominican Republic","do","Spanish; Castilian","es",NA,NA,"Santo_Domingo","-0430",-16200,1,-4.5
+"247","Ecuador","ec","Spanish; Castilian","es",NA,NA,"Galapagos","-05",-18000,1,-5
+"248","Ecuador","ec","Spanish; Castilian","es",NA,NA,"Guayaquil","-04",-14400,1,-4
+"249","Ecuador","ec","Spanish; Castilian","es",NA,NA,"Galapagos","-06",-21600,0,-6
+"250","Ecuador","ec","Spanish; Castilian","es",NA,NA,"Guayaquil","-05",-18000,0,-5
+"251","Egypt","eg","Arabic","ar",NA,NA,"Cairo","EEST",10800,1,3
+"252","Egypt","eg","Arabic","ar",NA,NA,"Cairo","EET",7200,0,2
+"253","El Salvador","sv","Spanish; Castilian","es",NA,NA,"El_Salvador","CDT",-18000,1,-5
+"254","El Salvador","sv","Spanish; Castilian","es",NA,NA,"El_Salvador","CST",-21600,0,-6
+"255","Equatorial Guinea","gq","Spanish; Castilian","es","French","fr","Malabo","WAT",3600,0,1
+"256","Eritrea","er","Tigrinya","ti","Arabic","ar","Asmara","+0245",9900,0,2.75
+"257","Estonia","ee","Estonian","et",NA,NA,"Tallinn","EEST",10800,1,3
+"258","Estonia","ee","Estonian","et",NA,NA,"Tallinn","MSK",10800,0,3
+"259","Ethiopia","et","Amharic","am",NA,NA,"Addis_Ababa","+0245",9900,0,2.75
+"260","Falkland Islands (Malvinas)","fk",NA,NA,NA,NA,"Stanley","-02",-7200,1,-2
+"261","Falkland Islands (Malvinas)","fk",NA,NA,NA,NA,"Stanley","-03",-10800,0,-3
+"262","Faroe Islands","fo","Faroese","fo",NA,NA,"Faroe","WEST",3600,1,1
+"263","Faroe Islands","fo","Faroese","fo",NA,NA,"Faroe","WET",0,0,0
+"264","Fiji","fj","English","en","Fijian","fj","Fiji","+13",46800,1,13
+"265","Fiji","fj","English","en","Fijian","fj","Fiji","+12",43200,0,12
+"266","Finland","fi","Finnish","fi","Swedish","sv","Helsinki","EEST",10800,1,3
+"267","Finland","fi","Finnish","fi","Swedish","sv","Helsinki","EET",7200,0,2
+"268","France","fr","French","fr",NA,NA,"Paris","CET",3600,0,1
+"269","France","fr","French","fr",NA,NA,"Paris","CEST",7200,1,2
+"270","French Guiana","gf","French","fr",NA,NA,"Cayenne","-03",-10800,0,-3
+"271","French Polynesia","pf","French","fr",NA,NA,"Tahiti","-10",-36000,0,-10
+"272","French Polynesia","pf","French","fr",NA,NA,"Marquesas","-0930",-34200,0,-9.5
+"273","French Polynesia","pf","French","fr",NA,NA,"Gambier","LMT",-32388,0,-9
+"274","French Southern Territories","tf","French","fr",NA,NA,"Kerguelen","+05",18000,0,5
+"275","Gabon","ga","French","fr",NA,NA,"Libreville","WAT",3600,0,1
+"276","Gambia","gm","English","en",NA,NA,"Banjul","GMT",0,0,0
+"277","Georgia","ge","Georgian","ka",NA,NA,"Tbilisi","+04",14400,1,4
+"278","Georgia","ge","Georgian","ka",NA,NA,"Tbilisi","+04",14400,0,4
+"279","Germany","de","German","de",NA,NA,"Berlin","CEMT",10800,1,3
+"280","Germany","de","German","de",NA,NA,"Busingen","CEST",7200,1,2
+"281","Germany","de","German","de",NA,NA,"Busingen","CET",3600,0,1
+"282","Germany","de","German","de",NA,NA,"Berlin","CET",3600,0,1
+"283","Ghana","gh","English","en",NA,NA,"Accra","+0020",1200,1,0.33
+"284","Ghana","gh","English","en",NA,NA,"Accra","GMT",0,0,0
+"285","Gibraltar","gi","English","en",NA,NA,"Gibraltar","CET",3600,0,1
+"286","Gibraltar","gi","English","en",NA,NA,"Gibraltar","BDST",7200,1,2
+"287","Greece","gr","Greek, Modern (1453-)","el",NA,NA,"Athens","CET",3600,0,1
+"288","Greece","gr","Greek, Modern (1453-)","el",NA,NA,"Athens","CEST",7200,1,2
+"289","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Danmarkshavn","GMT",0,0,0
+"290","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Thule","ADT",-10800,1,-3
+"291","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Scoresbysund","-01",-3600,0,-1
+"292","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Scoresbysund","+00",0,1,0
+"293","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Godthab","-02",-7200,1,-2
+"294","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Danmarkshavn","-02",-7200,1,-2
+"295","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Thule","AST",-14400,0,-4
+"296","Greenland","gl","Kalaallisut; Greenlandic","kl",NA,NA,"Godthab","-03",-10800,0,-3
+"297","Grenada","gd","English","en",NA,NA,"Grenada","AST",-14400,0,-4
+"298","Guadeloupe","gp","French","fr",NA,NA,"Guadeloupe","AST",-14400,0,-4
+"299","Guam","gu","English","en","Chamorro","ch","Guam","GDT",39600,1,11
+"300","Guam","gu","English","en","Chamorro","ch","Guam","+09",32400,0,9
+"301","Guatemala","gt","Spanish; Castilian","es",NA,NA,"Guatemala","CDT",-18000,1,-5
+"302","Guatemala","gt","Spanish; Castilian","es",NA,NA,"Guatemala","CST",-21600,0,-6
+"303","Guernsey","gg","English","en","French","fr","Guernsey","BDST",7200,1,2
+"304","Guernsey","gg","English","en","French","fr","Guernsey","GMT",0,0,0
+"305","Guinea","gn","French","fr","Fulah","ff","Conakry","GMT",0,0,0
+"306","Guinea-Bissau","gw","Portuguese","pt",NA,NA,"Bissau","GMT",0,0,0
+"307","Guyana","gy","English","en",NA,NA,"Guyana","-04",-14400,0,-4
+"308","Haiti","ht","French","fr","Haitian; Haitian Creole","ht","Port-au-Prince","EDT",-14400,1,-4
+"309","Haiti","ht","French","fr","Haitian; Haitian Creole","ht","Port-au-Prince","EST",-18000,0,-5
+"310","Holy See (Vatican City State)","va",NA,NA,NA,NA,"Vatican","CEST",7200,1,2
+"311","Holy See (Vatican City State)","va",NA,NA,NA,NA,"Vatican","CET",3600,0,1
+"312","Honduras","hn","Spanish; Castilian","es",NA,NA,"Tegucigalpa","CDT",-18000,1,-5
+"313","Honduras","hn","Spanish; Castilian","es",NA,NA,"Tegucigalpa","CST",-21600,0,-6
+"314","Hong Kong","hk","Chinese","zh","English","en","Hong_Kong","JST",32400,0,9
+"315","Hong Kong","hk","Chinese","zh","English","en","Hong_Kong","HKST",32400,1,9
+"316","Hungary","hu","Hungarian","hu",NA,NA,"Budapest","CEST",7200,1,2
+"317","Hungary","hu","Hungarian","hu",NA,NA,"Budapest","CET",3600,0,1
+"318","Iceland","is","Icelandic","is",NA,NA,"Reykjavik","GMT",0,0,0
+"319","Iceland","is","Icelandic","is",NA,NA,"Reykjavik","+00",0,1,0
+"320","India","in","Hindi","hi","English","en","Kolkata","+0630",23400,1,6.5
+"321","India","in","Hindi","hi","English","en","Kolkata","IST",19800,0,5.5
+"322","Indonesia","id","Indonesian","id",NA,NA,"Pontianak","WIB",25200,0,7
+"323","Indonesia","id","Indonesian","id",NA,NA,"Jakarta","WIB",25200,0,7
+"324","Indonesia","id","Indonesian","id",NA,NA,"Jayapura","+0930",34200,0,9.5
+"325","Indonesia","id","Indonesian","id",NA,NA,"Makassar","+09",32400,0,9
+"326","Iran, Islamic Republic of","ir",NA,NA,NA,NA,"Tehran","+0430",16200,1,4.5
+"327","Iran, Islamic Republic of","ir",NA,NA,NA,NA,"Tehran","+04",14400,0,4
+"328","Iraq","iq","Arabic","ar","Kurdish","ku","Baghdad","+04",14400,1,4
+"329","Iraq","iq","Arabic","ar","Kurdish","ku","Baghdad","+03",10800,0,3
+"330","Ireland","ie","Irish","ga","English","en","Dublin","IST",3600,0,1
+"331","Ireland","ie","Irish","ga","English","en","Dublin","GMT",0,1,0
+"332","Isle of Man","im","English","en","Manx","gv","Isle_of_Man","BDST",7200,1,2
+"333","Isle of Man","im","English","en","Manx","gv","Isle_of_Man","GMT",0,0,0
+"334","Israel","il","Hebrew","he","Arabic","ar","Jerusalem","IDDT",14400,1,4
+"335","Israel","il","Hebrew","he","Arabic","ar","Jerusalem","IST",7200,0,2
+"336","Italy","it","Italian","it",NA,NA,"Rome","CEST",7200,1,2
+"337","Italy","it","Italian","it",NA,NA,"Rome","CET",3600,0,1
+"338","Jamaica","jm","English","en",NA,NA,"Jamaica","EDT",-14400,1,-4
+"339","Jamaica","jm","English","en",NA,NA,"Jamaica","EST",-18000,0,-5
+"340","Japan","jp","Japanese","ja",NA,NA,"Tokyo","JDT",36000,1,10
+"341","Japan","jp","Japanese","ja",NA,NA,"Tokyo","JST",32400,0,9
+"342","Jersey","je","English","en","French","fr","Jersey","BDST",7200,1,2
+"343","Jersey","je","English","en","French","fr","Jersey","GMT",0,0,0
+"344","Jordan","jo","Arabic","ar",NA,NA,"Amman","EEST",10800,1,3
+"345","Jordan","jo","Arabic","ar",NA,NA,"Amman","EET",7200,0,2
+"346","Kazakhstan","kz","Kazakh","kk","Russian","ru","Atyrau","+05",18000,1,5
+"347","Kazakhstan","kz","Kazakh","kk","Russian","ru","Aqtau","+05",18000,1,5
+"348","Kazakhstan","kz","Kazakh","kk","Russian","ru","Qyzylorda","+06",21600,0,6
+"349","Kazakhstan","kz","Kazakh","kk","Russian","ru","Atyrau","+04",14400,0,4
+"350","Kazakhstan","kz","Kazakh","kk","Russian","ru","Oral","+05",18000,1,5
+"351","Kazakhstan","kz","Kazakh","kk","Russian","ru","Oral","+04",14400,0,4
+"352","Kazakhstan","kz","Kazakh","kk","Russian","ru","Aqtau","+06",21600,0,6
+"353","Kazakhstan","kz","Kazakh","kk","Russian","ru","Qyzylorda","+06",21600,1,6
+"354","Kazakhstan","kz","Kazakh","kk","Russian","ru","Qostanay","+06",21600,1,6
+"355","Kazakhstan","kz","Kazakh","kk","Russian","ru","Aqtobe","+06",21600,1,6
+"356","Kazakhstan","kz","Kazakh","kk","Russian","ru","Almaty","+07",25200,1,7
+"357","Kazakhstan","kz","Kazakh","kk","Russian","ru","Qostanay","+05",18000,0,5
+"358","Kazakhstan","kz","Kazakh","kk","Russian","ru","Aqtobe","+05",18000,0,5
+"359","Kazakhstan","kz","Kazakh","kk","Russian","ru","Almaty","+06",21600,0,6
+"360","Kenya","ke","English","en","Swahili","sw","Nairobi","+0245",9900,0,2.75
+"361","Kiribati","ki","English","en",NA,NA,"Enderbury","+13",46800,0,13
+"362","Kiribati","ki","English","en",NA,NA,"Kiritimati","+14",50400,0,14
+"363","Kiribati","ki","English","en",NA,NA,"Tarawa","+12",43200,0,12
+"364","Korea, Democratic People's Republic of","kp",NA,NA,NA,NA,"Pyongyang","JST",32400,0,9
+"365","Korea, Republic of","kr",NA,NA,NA,NA,"Seoul","KDT",36000,1,10
+"366","Korea, Republic of","kr",NA,NA,NA,NA,"Seoul","JST",32400,0,9
+"367","Kuwait","kw","Arabic","ar",NA,NA,"Kuwait","+03",10800,0,3
+"368","Kyrgyzstan","kg","Kirghiz; Kyrgyz","ky","Russian","ru","Bishkek","+06",21600,1,6
+"369","Kyrgyzstan","kg","Kirghiz; Kyrgyz","ky","Russian","ru","Bishkek","+06",21600,0,6
+"370","Lao People's Democratic Republic","la",NA,NA,NA,NA,"Vientiane","+07",25200,0,7
+"371","Latvia","lv","Latvian","lv",NA,NA,"Riga","EEST",10800,1,3
+"372","Latvia","lv","Latvian","lv",NA,NA,"Riga","CET",3600,0,1
+"373","Lebanon","lb","Arabic","ar","French","fr","Beirut","EEST",10800,1,3
+"374","Lebanon","lb","Arabic","ar","French","fr","Beirut","EET",7200,0,2
+"375","Lesotho","ls","English","en","Sotho, Southern","st","Maseru","SAST",10800,1,3
+"376","Lesotho","ls","English","en","Sotho, Southern","st","Maseru","SAST",7200,0,2
+"377","Liberia","lr","English","en",NA,NA,"Monrovia","GMT",0,0,0
+"378","Libya","ly","Arabic","ar",NA,NA,"Tripoli","EET",7200,0,2
+"379","Libya","ly","Arabic","ar",NA,NA,"Tripoli","CEST",7200,1,2
+"380","Liechtenstein","li","German","de",NA,NA,"Vaduz","CEST",7200,1,2
+"381","Liechtenstein","li","German","de",NA,NA,"Vaduz","CET",3600,0,1
+"382","Lithuania","lt","Lithuanian","lt",NA,NA,"Vilnius","EEST",10800,1,3
+"383","Lithuania","lt","Lithuanian","lt",NA,NA,"Vilnius","MSK",10800,0,3
+"384","Luxembourg","lu","French","fr","German","de","Luxembourg","WEST",3600,1,1
+"385","Luxembourg","lu","French","fr","German","de","Luxembourg","WET",0,0,0
+"386","Macao","mo","Chinese","zh","Portuguese","pt","Macau","CDT",32400,1,9
+"387","Macao","mo","Chinese","zh","Portuguese","pt","Macau","+09",32400,0,9
+"388","Macedonia, the Former Yugoslav Republic of","mk",NA,NA,NA,NA,"Skopje","CEST",7200,1,2
+"389","Macedonia, the Former Yugoslav Republic of","mk",NA,NA,NA,NA,"Skopje","CET",3600,0,1
+"390","Madagascar","mg","French","fr","Malagasy","mg","Antananarivo","+0245",9900,0,2.75
+"391","Malawi","mw","English","en","Chichewa; Chewa; Nyanja","ny","Blantyre","CAT",7200,0,2
+"392","Malaysia","my","Malay","ms",NA,NA,"Kuala_Lumpur","+08",28800,0,8
+"393","Malaysia","my","Malay","ms",NA,NA,"Kuching","+09",32400,0,9
+"394","Malaysia","my","Malay","ms",NA,NA,"Kuching","+0820",30000,1,8.33
+"395","Malaysia","my","Malay","ms",NA,NA,"Kuala_Lumpur","+0720",26400,1,7.33
+"396","Maldives","mv","Divehi; Dhivehi; Maldivian","dv",NA,NA,"Maldives","+05",18000,0,5
+"397","Mali","ml","French","fr",NA,NA,"Bamako","GMT",0,0,0
+"398","Malta","mt","Maltese","mt","English","en","Malta","CEST",7200,1,2
+"399","Malta","mt","Maltese","mt","English","en","Malta","CET",3600,0,1
+"400","Marshall Islands","mh","English","en","Marshallese","mh","Kwajalein","+12",43200,0,12
+"401","Marshall Islands","mh","English","en","Marshallese","mh","Majuro","+12",43200,0,12
+"402","Martinique","mq","French","fr",NA,NA,"Martinique","ADT",-10800,1,-3
+"403","Martinique","mq","French","fr",NA,NA,"Martinique","AST",-14400,0,-4
+"404","Mauritania","mr","Arabic","ar",NA,NA,"Nouakchott","GMT",0,0,0
+"405","Mauritius","mu","English","en",NA,NA,"Mauritius","+05",18000,1,5
+"406","Mauritius","mu","English","en",NA,NA,"Mauritius","+04",14400,0,4
+"407","Mayotte","yt","French","fr",NA,NA,"Mayotte","+0245",9900,0,2.75
+"408","Mexico","mx","Spanish; Castilian","es",NA,NA,"Bahia_Banderas","CDT",-18000,1,-5
+"409","Mexico","mx","Spanish; Castilian","es",NA,NA,"Cancun","CDT",-18000,1,-5
+"410","Mexico","mx","Spanish; Castilian","es",NA,NA,"Chihuahua","MDT",-21600,1,-6
+"411","Mexico","mx","Spanish; Castilian","es",NA,NA,"Ojinaga","MDT",-21600,1,-6
+"412","Mexico","mx","Spanish; Castilian","es",NA,NA,"Mazatlan","MDT",-21600,1,-6
+"413","Mexico","mx","Spanish; Castilian","es",NA,NA,"Hermosillo","MDT",-21600,1,-6
+"414","Mexico","mx","Spanish; Castilian","es",NA,NA,"Merida","CDT",-18000,1,-5
+"415","Mexico","mx","Spanish; Castilian","es",NA,NA,"Monterrey","CDT",-18000,1,-5
+"416","Mexico","mx","Spanish; Castilian","es",NA,NA,"Matamoros","CDT",-18000,1,-5
+"417","Mexico","mx","Spanish; Castilian","es",NA,NA,"Cancun","EST",-18000,0,-5
+"418","Mexico","mx","Spanish; Castilian","es",NA,NA,"Merida","EST",-18000,0,-5
+"419","Mexico","mx","Spanish; Castilian","es",NA,NA,"Mazatlan","PST",-28800,0,-8
+"420","Mexico","mx","Spanish; Castilian","es",NA,NA,"Hermosillo","PST",-28800,0,-8
+"421","Mexico","mx","Spanish; Castilian","es",NA,NA,"Bahia_Banderas","PST",-28800,0,-8
+"422","Mexico","mx","Spanish; Castilian","es",NA,NA,"Mexico_City","CDT",-18000,1,-5
+"423","Mexico","mx","Spanish; Castilian","es",NA,NA,"Tijuana","PDT",-25200,1,-7
+"424","Mexico","mx","Spanish; Castilian","es",NA,NA,"Mexico_City","CST",-21600,0,-6
+"425","Mexico","mx","Spanish; Castilian","es",NA,NA,"Chihuahua","CST",-21600,0,-6
+"426","Mexico","mx","Spanish; Castilian","es",NA,NA,"Ojinaga","CST",-21600,0,-6
+"427","Mexico","mx","Spanish; Castilian","es",NA,NA,"Tijuana","PST",-28800,0,-8
+"428","Mexico","mx","Spanish; Castilian","es",NA,NA,"Monterrey","CST",-21600,0,-6
+"429","Mexico","mx","Spanish; Castilian","es",NA,NA,"Matamoros","CST",-21600,0,-6
+"430","Micronesia, Federated States of","fm",NA,NA,NA,NA,"Kosrae","+12",43200,0,12
+"431","Micronesia, Federated States of","fm",NA,NA,NA,NA,"Pohnpei","+10",36000,0,10
+"432","Micronesia, Federated States of","fm",NA,NA,NA,NA,"Chuuk","+09",32400,0,9
+"433","Moldova, Republic of","md",NA,NA,NA,NA,"Chisinau","MSD",14400,1,4
+"434","Moldova, Republic of","md",NA,NA,NA,NA,"Chisinau","MSK",10800,0,3
+"435","Monaco","mc","French","fr",NA,NA,"Monaco","CET",3600,0,1
+"436","Monaco","mc","French","fr",NA,NA,"Monaco","WEMT",7200,1,2
+"437","Mongolia","mn","Mongolian","mn",NA,NA,"Choibalsan","+09",32400,1,9
+"438","Mongolia","mn","Mongolian","mn",NA,NA,"Choibalsan","+09",32400,0,9
+"439","Mongolia","mn","Mongolian","mn",NA,NA,"Hovd","+08",28800,1,8
+"440","Mongolia","mn","Mongolian","mn",NA,NA,"Ulaanbaatar","+09",32400,1,9
+"441","Mongolia","mn","Mongolian","mn",NA,NA,"Hovd","+07",25200,0,7
+"442","Mongolia","mn","Mongolian","mn",NA,NA,"Ulaanbaatar","+08",28800,0,8
+"443","Montenegro","me","Serbian","sr","Bosnian","bs","Podgorica","CEST",7200,1,2
+"444","Montenegro","me","Serbian","sr","Bosnian","bs","Podgorica","CET",3600,0,1
+"445","Montserrat","ms","English","en",NA,NA,"Montserrat","AST",-14400,0,-4
+"446","Morocco","ma","Arabic","ar",NA,NA,"Casablanca","+00",0,1,0
+"447","Morocco","ma","Arabic","ar",NA,NA,"Casablanca","+01",3600,0,1
+"448","Mozambique","mz","Portuguese","pt",NA,NA,"Maputo","CAT",7200,0,2
+"449","Myanmar","mm",NA,NA,NA,NA,"Yangon","+09",32400,0,9
+"450","Namibia",NA,"English","en","Afrikaans","af","Windhoek","WAT",3600,1,1
+"451","Namibia",NA,"English","en","Afrikaans","af","Windhoek","SAST",7200,0,2
+"452","Nauru","nr","English","en","Nauru","na","Nauru","+12",43200,0,12
+"453","Nepal","np","Nepali","ne",NA,NA,"Kathmandu","+0545",20700,0,5.75
+"454","Netherlands","nl","Dutch; Flemish","nl",NA,NA,"Amsterdam","CET",3600,0,1
+"455","Netherlands","nl","Dutch; Flemish","nl",NA,NA,"Amsterdam","CEST",7200,1,2
+"456","New Caledonia","nc","French","fr",NA,NA,"Noumea","+12",43200,1,12
+"457","New Caledonia","nc","French","fr",NA,NA,"Noumea","+11",39600,0,11
+"458","New Zealand","nz","English","en","Maori","mi","Auckland","NZST",43200,0,12
+"459","New Zealand","nz","English","en","Maori","mi","Auckland","NZDT",46800,1,13
+"460","New Zealand","nz","English","en","Maori","mi","Chatham","+1345",49500,1,13.75
+"461","New Zealand","nz","English","en","Maori","mi","Chatham","+1245",45900,0,12.75
+"462","Nicaragua","ni","Spanish; Castilian","es",NA,NA,"Managua","CDT",-18000,1,-5
+"463","Nicaragua","ni","Spanish; Castilian","es",NA,NA,"Managua","EST",-18000,0,-5
+"464","Niger","ne","French","fr",NA,NA,"Niamey","WAT",3600,0,1
+"465","Nigeria","ng","English","en",NA,NA,"Lagos","WAT",3600,0,1
+"466","Niue","nu","English","en",NA,NA,"Niue","-11",-39600,0,-11
+"467","Norfolk Island","nf","English","en",NA,NA,"Norfolk","+11",39600,0,11
+"468","Norfolk Island","nf","English","en",NA,NA,"Norfolk","+1230",45000,1,12.5
+"469","Northern Mariana Islands","mp","English","en","Chamorro","ch","Saipan","GDT",39600,1,11
+"470","Northern Mariana Islands","mp","English","en","Chamorro","ch","Saipan","+09",32400,0,9
+"471","Norway","no","Norwegian","no","Bokmål, Norwegian; Norwegian Bokmål","nb","Oslo","CEST",7200,1,2
+"472","Norway","no","Norwegian","no","Bokmål, Norwegian; Norwegian Bokmål","nb","Oslo","CET",3600,0,1
+"473","Oman","om","Arabic","ar",NA,NA,"Muscat","+04",14400,0,4
+"474","Pakistan","pk","English","en","Urdu","ur","Karachi","PKST",21600,1,6
+"475","Pakistan","pk","English","en","Urdu","ur","Karachi","+05",18000,0,5
+"476","Palau","pw","English","en",NA,NA,"Palau","+09",32400,0,9
+"477","Palestine, State of","ps",NA,NA,NA,NA,"Gaza","EEST",10800,1,3
+"478","Palestine, State of","ps",NA,NA,NA,NA,"Hebron","EEST",10800,1,3
+"479","Palestine, State of","ps",NA,NA,NA,NA,"Gaza","EET",7200,0,2
+"480","Palestine, State of","ps",NA,NA,NA,NA,"Hebron","EET",7200,0,2
+"481","Panama","pa","Spanish; Castilian","es",NA,NA,"Panama","EST",-18000,0,-5
+"482","Papua New Guinea","pg","English","en",NA,NA,"Bougainville","+11",39600,0,11
+"483","Papua New Guinea","pg","English","en",NA,NA,"Port_Moresby","+10",36000,0,10
+"484","Paraguay","py","Spanish; Castilian","es","Guarani","gn","Asuncion","-03",-10800,1,-3
+"485","Paraguay","py","Spanish; Castilian","es","Guarani","gn","Asuncion","-03",-10800,0,-3
+"486","Peru","pe","Spanish; Castilian","es",NA,NA,"Lima","-04",-14400,1,-4
+"487","Peru","pe","Spanish; Castilian","es",NA,NA,"Lima","-05",-18000,0,-5
+"488","Philippines","ph","English","en",NA,NA,"Manila","JST",32400,0,9
+"489","Philippines","ph","English","en",NA,NA,"Manila","PDT",32400,1,9
+"490","Pitcairn","pn",NA,NA,NA,NA,"Pitcairn","-08",-28800,0,-8
+"491","Poland","pl","Polish","pl",NA,NA,"Warsaw","EEST",10800,1,3
+"492","Poland","pl","Polish","pl",NA,NA,"Warsaw","EET",7200,0,2
+"493","Portugal","pt","Portuguese","pt",NA,NA,"Azores","WET",0,0,0
+"494","Portugal","pt","Portuguese","pt",NA,NA,"Madeira","WET",0,0,0
+"495","Portugal","pt","Portuguese","pt",NA,NA,"Lisbon","CET",3600,0,1
+"496","Portugal","pt","Portuguese","pt",NA,NA,"Azores","+00",0,1,0
+"497","Portugal","pt","Portuguese","pt",NA,NA,"Madeira","+01",3600,1,1
+"498","Portugal","pt","Portuguese","pt",NA,NA,"Lisbon","WEMT",7200,1,2
+"499","Puerto Rico","pr","Spanish; Castilian","es","English","en","Puerto_Rico","AWT",-10800,1,-3
+"500","Puerto Rico","pr","Spanish; Castilian","es","English","en","Puerto_Rico","AST",-14400,0,-4
+"501","Qatar","qa","Arabic","ar",NA,NA,"Qatar","+03",10800,0,3
+"502","Réunion","re","French","fr",NA,NA,"Reunion","+04",14400,0,4
+"503","Romania","ro","Romanian; Moldavian; Moldovan","ro",NA,NA,"Bucharest","EEST",10800,1,3
+"504","Romania","ro","Romanian; Moldavian; Moldovan","ro",NA,NA,"Bucharest","EET",7200,0,2
+"505","Russia","ru","Russian","ru",NA,NA,"Moscow","MSK",14400,0,4
+"506","Russia","ru","Russian","ru",NA,NA,"Yekaterinburg","+06",21600,0,6
+"507","Russia","ru","Russian","ru",NA,NA,"Omsk","+07",25200,0,7
+"508","Russia","ru","Russian","ru",NA,NA,"Krasnoyarsk","+08",28800,0,8
+"509","Russia","ru","Russian","ru",NA,NA,"Irkutsk","+09",32400,0,9
+"510","Russia","ru","Russian","ru",NA,NA,"Chita","+10",36000,0,10
+"511","Russia","ru","Russian","ru",NA,NA,"Yakutsk","+10",36000,0,10
+"512","Russia","ru","Russian","ru",NA,NA,"Khandyga","+11",39600,0,11
+"513","Russia","ru","Russian","ru",NA,NA,"Vladivostok","+11",39600,0,11
+"514","Russia","ru","Russian","ru",NA,NA,"Ust-Nera","+12",43200,0,12
+"515","Russia","ru","Russian","ru",NA,NA,"Magadan","+12",43200,0,12
+"516","Russia","ru","Russian","ru",NA,NA,"Srednekolymsk","+12",43200,0,12
+"517","Russia","ru","Russian","ru",NA,NA,"Khandyga","+11",39600,1,11
+"518","Russia","ru","Russian","ru",NA,NA,"Tomsk","+07",25200,1,7
+"519","Russia","ru","Russian","ru",NA,NA,"Sakhalin","+11",39600,1,11
+"520","Russia","ru","Russian","ru",NA,NA,"Barnaul","+07",25200,1,7
+"521","Russia","ru","Russian","ru",NA,NA,"Novosibirsk","+07",25200,1,7
+"522","Russia","ru","Russian","ru",NA,NA,"Ulyanovsk","+02",7200,0,2
+"523","Russia","ru","Russian","ru",NA,NA,"Sakhalin","+10",36000,0,10
+"524","Russia","ru","Russian","ru",NA,NA,"Anadyr","+11",39600,0,11
+"525","Russia","ru","Russian","ru",NA,NA,"Moscow","EEST",10800,1,3
+"526","Russia","ru","Russian","ru",NA,NA,"Kirov","+04",14400,1,4
+"527","Russia","ru","Russian","ru",NA,NA,"Astrakhan","+04",14400,1,4
+"528","Russia","ru","Russian","ru",NA,NA,"Ulyanovsk","+04",14400,1,4
+"529","Russia","ru","Russian","ru",NA,NA,"Samara","+04",14400,1,4
+"530","Russia","ru","Russian","ru",NA,NA,"Volgograd","+04",14400,1,4
+"531","Russia","ru","Russian","ru",NA,NA,"Saratov","+04",14400,1,4
+"532","Russia","ru","Russian","ru",NA,NA,"Anadyr","+13",46800,1,13
+"533","Russia","ru","Russian","ru",NA,NA,"Kaliningrad","MSD",14400,1,4
+"534","Russia","ru","Russian","ru",NA,NA,"Yekaterinburg","+06",21600,1,6
+"535","Russia","ru","Russian","ru",NA,NA,"Omsk","+07",25200,1,7
+"536","Russia","ru","Russian","ru",NA,NA,"Novokuznetsk","+08",28800,1,8
+"537","Russia","ru","Russian","ru",NA,NA,"Krasnoyarsk","+08",28800,1,8
+"538","Russia","ru","Russian","ru",NA,NA,"Irkutsk","+09",32400,1,9
+"539","Russia","ru","Russian","ru",NA,NA,"Chita","+10",36000,1,10
+"540","Russia","ru","Russian","ru",NA,NA,"Yakutsk","+10",36000,1,10
+"541","Russia","ru","Russian","ru",NA,NA,"Ust-Nera","+12",43200,1,12
+"542","Russia","ru","Russian","ru",NA,NA,"Vladivostok","+11",39600,1,11
+"543","Russia","ru","Russian","ru",NA,NA,"Magadan","+12",43200,1,12
+"544","Russia","ru","Russian","ru",NA,NA,"Srednekolymsk","+12",43200,1,12
+"545","Russia","ru","Russian","ru",NA,NA,"Kamchatka","+13",46800,1,13
+"546","Russia","ru","Russian","ru",NA,NA,"Kaliningrad","MSK",10800,0,3
+"547","Russia","ru","Russian","ru",NA,NA,"Kirov","+04",14400,0,4
+"548","Russia","ru","Russian","ru",NA,NA,"Astrakhan","+04",14400,0,4
+"549","Russia","ru","Russian","ru",NA,NA,"Volgograd","+04",14400,0,4
+"550","Russia","ru","Russian","ru",NA,NA,"Saratov","+04",14400,0,4
+"551","Russia","ru","Russian","ru",NA,NA,"Samara","+04",14400,0,4
+"552","Russia","ru","Russian","ru",NA,NA,"Novosibirsk","+07",25200,0,7
+"553","Russia","ru","Russian","ru",NA,NA,"Barnaul","+07",25200,0,7
+"554","Russia","ru","Russian","ru",NA,NA,"Tomsk","+07",25200,0,7
+"555","Russia","ru","Russian","ru",NA,NA,"Novokuznetsk","+07",25200,0,7
+"556","Russia","ru","Russian","ru",NA,NA,"Kamchatka","+12",43200,0,12
+"557","Rwanda","rw","Kinyarwanda","rw","English","en","Kigali","CAT",7200,0,2
+"558","Saint Barthélemy","bl","French","fr",NA,NA,"St_Barthelemy","AST",-14400,0,-4
+"559","Saint Helena, Ascension and Tristan da Cunha","sh",NA,NA,NA,NA,"St_Helena","GMT",0,0,0
+"560","Saint Kitts and Nevis","kn","English","en",NA,NA,"St_Kitts","AST",-14400,0,-4
+"561","Saint Lucia","lc","English","en",NA,NA,"St_Lucia","AST",-14400,0,-4
+"562","Saint Martin (French part)","mf",NA,NA,NA,NA,"Marigot","AST",-14400,0,-4
+"563","Saint Pierre and Miquelon","pm","French","fr",NA,NA,"Miquelon","-02",-7200,1,-2
+"564","Saint Pierre and Miquelon","pm","French","fr",NA,NA,"Miquelon","-03",-10800,0,-3
+"565","Saint Vincent and the Grenadines","vc","English","en",NA,NA,"St_Vincent","AST",-14400,0,-4
+"566","Samoa","ws","Samoan","sm","English","en","Apia","+13",46800,0,13
+"567","Samoa","ws","Samoan","sm","English","en","Apia","+14",50400,1,14
+"568","San Marino","sm","Italian","it",NA,NA,"San_Marino","CEST",7200,1,2
+"569","San Marino","sm","Italian","it",NA,NA,"San_Marino","CET",3600,0,1
+"570","Sao Tome and Principe","st",NA,NA,NA,NA,"Sao_Tome","WAT",3600,0,1
+"571","Saudi Arabia","sa","Arabic","ar",NA,NA,"Riyadh","+03",10800,0,3
+"572","Senegal","sn","French","fr",NA,NA,"Dakar","GMT",0,0,0
+"573","Serbia","rs","Serbian","sr",NA,NA,"Belgrade","CEST",7200,1,2
+"574","Serbia","rs","Serbian","sr",NA,NA,"Belgrade","CET",3600,0,1
+"575","Seychelles","sc","French","fr","English","en","Mahe","+04",14400,0,4
+"576","Sierra Leone","sl","English","en",NA,NA,"Freetown","GMT",0,0,0
+"577","Singapore","sg","English","en","Malay","ms","Singapore","+08",28800,0,8
+"578","Singapore","sg","English","en","Malay","ms","Singapore","+0720",26400,1,7.33
+"579","Sint Maarten (Dutch part)","sx",NA,NA,NA,NA,"Lower_Princes","AST",-14400,0,-4
+"580","Slovakia","sk","Slovak","sk",NA,NA,"Bratislava","GMT",0,1,0
+"581","Slovakia","sk","Slovak","sk",NA,NA,"Bratislava","CET",3600,0,1
+"582","Slovenia","si","Slovenian","sl",NA,NA,"Ljubljana","CEST",7200,1,2
+"583","Slovenia","si","Slovenian","sl",NA,NA,"Ljubljana","CET",3600,0,1
+"584","Solomon Islands","sb","English","en",NA,NA,"Guadalcanal","+11",39600,0,11
+"585","Somalia","so","Somali","so","Arabic","ar","Mogadishu","+0245",9900,0,2.75
+"586","South Africa","za","Afrikaans","af","English","en","Johannesburg","SAST",10800,1,3
+"587","South Africa","za","Afrikaans","af","English","en","Johannesburg","SAST",7200,0,2
+"588","South Georgia and the South Sandwich Islands","gs","English","en",NA,NA,"South_Georgia","-02",-7200,0,-2
+"589","South Sudan","ss","English","en",NA,NA,"Juba","EAT",10800,0,3
+"590","South Sudan","ss","English","en",NA,NA,"Juba","CAST",10800,1,3
+"591","Spain","es","Spanish; Castilian","es","Basque","eu","Ceuta","CEST",7200,1,2
+"592","Spain","es","Spanish; Castilian","es","Basque","eu","Ceuta","CET",3600,0,1
+"593","Spain","es","Spanish; Castilian","es","Basque","eu","Canary","WEST",3600,1,1
+"594","Spain","es","Spanish; Castilian","es","Basque","eu","Canary","WET",0,0,0
+"595","Spain","es","Spanish; Castilian","es","Basque","eu","Madrid","CET",3600,0,1
+"596","Spain","es","Spanish; Castilian","es","Basque","eu","Madrid","WEMT",7200,1,2
+"597","Sri Lanka","lk","Sinhala; Sinhalese","si","Tamil","ta","Colombo","+06",21600,0,6
+"598","Sri Lanka","lk","Sinhala; Sinhalese","si","Tamil","ta","Colombo","+0630",23400,1,6.5
+"599","Sudan","sd","Arabic","ar","English","en","Khartoum","EAT",10800,0,3
+"600","Sudan","sd","Arabic","ar","English","en","Khartoum","CAST",10800,1,3
+"601","Suriname","sr","Dutch; Flemish","nl",NA,NA,"Paramaribo","-03",-10800,0,-3
+"602","Svalbard and Jan Mayen","sj","Norwegian","no",NA,NA,"Longyearbyen","CEST",7200,1,2
+"603","Svalbard and Jan Mayen","sj","Norwegian","no",NA,NA,"Longyearbyen","CET",3600,0,1
+"604","Swaziland","sz","English","en","Swati","ss","Mbabane","SAST",10800,1,3
+"605","Swaziland","sz","English","en","Swati","ss","Mbabane","SAST",7200,0,2
+"606","Sweden","se","Swedish","sv",NA,NA,"Stockholm","CEST",7200,1,2
+"607","Sweden","se","Swedish","sv",NA,NA,"Stockholm","SET",3614,0,1
+"608","Switzerland","ch","German","de","French","fr","Zurich","CEST",7200,1,2
+"609","Switzerland","ch","German","de","French","fr","Zurich","CET",3600,0,1
+"610","Syrian Arab Republic","sy",NA,NA,NA,NA,"Damascus","EEST",10800,1,3
+"611","Syrian Arab Republic","sy",NA,NA,NA,NA,"Damascus","EET",7200,0,2
+"612","Taiwan, Province of China","tw",NA,NA,NA,NA,"Taipei","CDT",32400,1,9
+"613","Taiwan, Province of China","tw",NA,NA,NA,NA,"Taipei","JST",32400,0,9
+"614","Tajikistan","tj","Tajik","tg","Russian","ru","Dushanbe","+07",25200,1,7
+"615","Tajikistan","tj","Tajik","tg","Russian","ru","Dushanbe","+06",21600,0,6
+"616","Tanzania, United Republic of","tz",NA,NA,NA,NA,"Dar_es_Salaam","+0245",9900,0,2.75
+"617","Thailand","th","Thai","th",NA,NA,"Bangkok","+07",25200,0,7
+"618","Timor-Leste","tl",NA,NA,NA,NA,"Dili","+09",32400,0,9
+"619","Togo","tg","French","fr",NA,NA,"Lome","GMT",0,0,0
+"620","Tokelau","tk","English","en",NA,NA,"Fakaofo","+13",46800,0,13
+"621","Tonga","to","English","en","Tonga (Tonga Islands)","to","Tongatapu","+14",50400,1,14
+"622","Tonga","to","English","en","Tonga (Tonga Islands)","to","Tongatapu","+13",46800,0,13
+"623","Trinidad and Tobago","tt","English","en",NA,NA,"Port_of_Spain","AST",-14400,0,-4
+"624","Tunisia","tn","Arabic","ar",NA,NA,"Tunis","CEST",7200,1,2
+"625","Tunisia","tn","Arabic","ar",NA,NA,"Tunis","CET",3600,0,1
+"626","Turkey","tr","Turkish","tr",NA,NA,"Istanbul","+03",10800,0,3
+"627","Turkey","tr","Turkish","tr",NA,NA,"Istanbul","+04",14400,1,4
+"628","Turkmenistan","tm","Turkmen","tk","Russian","ru","Ashgabat","+06",21600,1,6
+"629","Turkmenistan","tm","Turkmen","tk","Russian","ru","Ashgabat","+05",18000,0,5
+"630","Turks and Caicos Islands","tc","English","en",NA,NA,"Grand_Turk","AST",-14400,0,-4
+"631","Turks and Caicos Islands","tc","English","en",NA,NA,"Grand_Turk","EDT",-14400,1,-4
+"632","Tuvalu","tv","English","en",NA,NA,"Funafuti","+12",43200,0,12
+"633","Uganda","ug","English","en","Swahili","sw","Kampala","+0245",9900,0,2.75
+"634","Ukraine","ua","Ukrainian","uk",NA,NA,"Simferopol","MSK",14400,0,4
+"635","Ukraine","ua","Ukrainian","uk",NA,NA,"Simferopol","EEST",10800,1,3
+"636","Ukraine","ua","Ukrainian","uk",NA,NA,"Uzhgorod","EEST",10800,1,3
+"637","Ukraine","ua","Ukrainian","uk",NA,NA,"Uzhgorod","EET",7200,0,2
+"638","Ukraine","ua","Ukrainian","uk",NA,NA,"Zaporozhye","EEST",10800,1,3
+"639","Ukraine","ua","Ukrainian","uk",NA,NA,"Kiev","EEST",10800,1,3
+"640","Ukraine","ua","Ukrainian","uk",NA,NA,"Kiev","CET",3600,0,1
+"641","Ukraine","ua","Ukrainian","uk",NA,NA,"Zaporozhye","CET",3600,0,1
+"642","United Arab Emirates","ae","Arabic","ar",NA,NA,"Dubai","+04",14400,0,4
+"643","United Kingdom","gb","English","en",NA,NA,"London","BDST",7200,1,2
+"644","United Kingdom","gb","English","en",NA,NA,"London","GMT",0,0,0
+"645","United States","us","English","en",NA,NA,"Metlakatla","AKDT",-28800,1,-8
+"646","United States","us","English","en",NA,NA,"Metlakatla","AKST",-32400,0,-9
+"647","United States","us","English","en",NA,NA,"North_Dakota/Beulah","CDT",-18000,1,-5
+"648","United States","us","English","en",NA,NA,"North_Dakota/Beulah","CST",-21600,0,-6
+"649","United States","us","English","en",NA,NA,"Indiana/Petersburg","EDT",-14400,1,-4
+"650","United States","us","English","en",NA,NA,"North_Dakota/New_Salem","CDT",-18000,1,-5
+"651","United States","us","English","en",NA,NA,"North_Dakota/New_Salem","CST",-21600,0,-6
+"652","United States","us","English","en",NA,NA,"Kentucky/Monticello","EDT",-14400,1,-4
+"653","United States","us","English","en",NA,NA,"Kentucky/Monticello","EST",-18000,0,-5
+"654","United States","us","English","en",NA,NA,"North_Dakota/Center","CDT",-18000,1,-5
+"655","United States","us","English","en",NA,NA,"North_Dakota/Center","CST",-21600,0,-6
+"656","United States","us","English","en",NA,NA,"Adak","HDT",-32400,1,-9
+"657","United States","us","English","en",NA,NA,"Anchorage","AKDT",-28800,1,-8
+"658","United States","us","English","en",NA,NA,"Sitka","AKDT",-28800,1,-8
+"659","United States","us","English","en",NA,NA,"Nome","AKDT",-28800,1,-8
+"660","United States","us","English","en",NA,NA,"Nome","YST",-32400,0,-9
+"661","United States","us","English","en",NA,NA,"Adak","AHST",-36000,0,-10
+"662","United States","us","English","en",NA,NA,"Anchorage","YST",-32400,0,-9
+"663","United States","us","English","en",NA,NA,"Juneau","YST",-32400,0,-9
+"664","United States","us","English","en",NA,NA,"Sitka","YST",-32400,0,-9
+"665","United States","us","English","en",NA,NA,"Juneau","YDT",-28800,1,-8
+"666","United States","us","English","en",NA,NA,"Menominee","EST",-18000,0,-5
+"667","United States","us","English","en",NA,NA,"Indiana/Indianapolis","EDT",-14400,1,-4
+"668","United States","us","English","en",NA,NA,"Indiana/Vincennes","EDT",-14400,1,-4
+"669","United States","us","English","en",NA,NA,"Indiana/Winamac","EDT",-14400,1,-4
+"670","United States","us","English","en",NA,NA,"Indiana/Marengo","EDT",-14400,1,-4
+"671","United States","us","English","en",NA,NA,"Indiana/Vevay","EDT",-14400,1,-4
+"672","United States","us","English","en",NA,NA,"Indiana/Tell_City","EDT",-14400,1,-4
+"673","United States","us","English","en",NA,NA,"Kentucky/Louisville","EDT",-14400,1,-4
+"674","United States","us","English","en",NA,NA,"Indiana/Petersburg","EST",-18000,0,-5
+"675","United States","us","English","en",NA,NA,"Indiana/Vincennes","EST",-18000,0,-5
+"676","United States","us","English","en",NA,NA,"Indiana/Tell_City","EST",-18000,0,-5
+"677","United States","us","English","en",NA,NA,"Indiana/Knox","EST",-18000,0,-5
+"678","United States","us","English","en",NA,NA,"Kentucky/Louisville","EST",-18000,0,-5
+"679","United States","us","English","en",NA,NA,"Indiana/Winamac","EST",-18000,0,-5
+"680","United States","us","English","en",NA,NA,"Indiana/Marengo","EST",-18000,0,-5
+"681","United States","us","English","en",NA,NA,"Indiana/Indianapolis","EST",-18000,0,-5
+"682","United States","us","English","en",NA,NA,"Indiana/Vevay","EST",-18000,0,-5
+"683","United States","us","English","en",NA,NA,"Honolulu","HST",-36000,0,-10
+"684","United States","us","English","en",NA,NA,"Yakutat","YWT",-28800,1,-8
+"685","United States","us","English","en",NA,NA,"Boise","MWT",-21600,1,-6
+"686","United States","us","English","en",NA,NA,"Detroit","EWT",-14400,1,-4
+"687","United States","us","English","en",NA,NA,"Chicago","EST",-18000,0,-5
+"688","United States","us","English","en",NA,NA,"Honolulu","HDT",-34200,1,-9.5
+"689","United States","us","English","en",NA,NA,"Boise","MST",-25200,0,-7
+"690","United States","us","English","en",NA,NA,"Los_Angeles","PDT",-25200,1,-7
+"691","United States","us","English","en",NA,NA,"Denver","MDT",-21600,1,-6
+"692","United States","us","English","en",NA,NA,"Phoenix","MDT",-21600,1,-6
+"693","United States","us","English","en",NA,NA,"Chicago","CDT",-18000,1,-5
+"694","United States","us","English","en",NA,NA,"Indiana/Knox","CDT",-18000,1,-5
+"695","United States","us","English","en",NA,NA,"Menominee","CDT",-18000,1,-5
+"696","United States","us","English","en",NA,NA,"New_York","EDT",-14400,1,-4
+"697","United States","us","English","en",NA,NA,"Detroit","EST",-18000,0,-5
+"698","United States","us","English","en",NA,NA,"Yakutat","YST",-32400,0,-9
+"699","United States","us","English","en",NA,NA,"Los_Angeles","PST",-28800,0,-8
+"700","United States","us","English","en",NA,NA,"Phoenix","MST",-25200,0,-7
+"701","United States","us","English","en",NA,NA,"Denver","LMT",-25196,0,-7
+"702","United States","us","English","en",NA,NA,"New_York","EST",-18000,0,-5
+"703","United States Minor Outlying Islands","um",NA,NA,NA,NA,"Midway","SST",-39600,0,-11
+"704","United States Minor Outlying Islands","um",NA,NA,NA,NA,"Wake","+12",43200,0,12
+"705","Uruguay","uy","Spanish; Castilian","es",NA,NA,"Montevideo","-0130",-5400,1,-1.5
+"706","Uruguay","uy","Spanish; Castilian","es",NA,NA,"Montevideo","-03",-10800,0,-3
+"707","Uzbekistan","uz","Uzbek","uz","Russian","ru","Samarkand","+06",21600,1,6
+"708","Uzbekistan","uz","Uzbek","uz","Russian","ru","Tashkent","+07",25200,1,7
+"709","Uzbekistan","uz","Uzbek","uz","Russian","ru","Samarkand","+05",18000,0,5
+"710","Uzbekistan","uz","Uzbek","uz","Russian","ru","Tashkent","+06",21600,0,6
+"711","Vanuatu","vu","Bislama","bi","English","en","Efate","+12",43200,1,12
+"712","Vanuatu","vu","Bislama","bi","English","en","Efate","+11",39600,0,11
+"713","Venezuela, Bolivarian Republic of","ve",NA,NA,NA,NA,"Caracas","-04",-14400,0,-4
+"714","Viet Nam","vn",NA,NA,NA,NA,"Ho_Chi_Minh","+09",32400,0,9
+"715","Virgin Islands, British","vg",NA,NA,NA,NA,"Tortola","AST",-14400,0,-4
+"716","Virgin Islands, U.S.","vi",NA,NA,NA,NA,"St_Thomas","AST",-14400,0,-4
+"717","Wallis and Futuna","wf","French","fr",NA,NA,"Wallis","+12",43200,0,12
+"718","Western Sahara","eh","Spanish; Castilian","es",NA,NA,"El_Aaiun","+01",3600,0,1
+"719","Western Sahara","eh","Spanish; Castilian","es",NA,NA,"El_Aaiun","+00",0,1,0
+"720","Yemen","ye","Arabic","ar",NA,NA,"Aden","+03",10800,0,3
+"721","Zambia","zm","English","en",NA,NA,"Lusaka","CAT",7200,0,2
+"722","Zimbabwe","zw","English","en","Shona","sn","Harare","CAT",7200,0,2
